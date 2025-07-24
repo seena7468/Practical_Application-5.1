@@ -6,11 +6,11 @@ Distinguish between customers who accepted a driving coupon versus those who did
 ### Data:
 
 ### Findings:
-58% percent of the total drivers accepted the coupon. 
+58% percent of drivers from the total population accepted the coupon. 
 
-![Coupon Acceptance](images/coupon_acceptance_bar.png)
+![Coupon Acceptance](/images/coupon_acceptance_bar.png)
 
-Following detailed findings are based on the bar coupon investigation. 
+Following is detailed findings are based on the bar coupon investigation. 
 - How many
 ### Next Steps:
 
