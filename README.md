@@ -9,7 +9,7 @@ Data is from the UCI Machine Learning Repository that deescribes different drivi
 ### Findings:
 1. **58% percent of drivers from the total population accepted the coupon.**
 
-  
+  ![Coupon Acceptance](images/acceptance_rate.png)
 
 3. **Detailed analysis was done by investigating bar coupon acceptance rate .**
 
