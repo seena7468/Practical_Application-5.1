@@ -1,4 +1,4 @@
-# Coupon Acceptance Rate finding - Will the customer Accept the Coupon?
+[coupon_acceptance_bar.pdf](https://github.com/user-attachments/files/21398555/coupon_acceptance_bar.pdf)# Coupon Acceptance Rate finding - Will the customer Accept the Coupon?
 
 ### Problem statement:  
 Distinguish between customers who accepted a driving coupon versus those who did not. It uses probabilty distributions and data visulizations and statistical summary to draw conclusions. 
@@ -8,8 +8,8 @@ Data is from the UCI Machine Learning Repository that deescribes different drivi
 
 ### Findings:
 1. **58% percent of drivers from the total population accepted the coupon.**
-   <img width="640" height="480" alt="coupon_acceptance_bar" src="https://github.com/user-attachments/assets/172284bd-5f21-49b8-9ffc-3b32f85352db" />
 
+   [coupon_acceptance_bar.pdf](https://github.com/user-attachments/files/21398558/coupon_acceptance_bar.pdf)
 
 3. **Detailed analysis was done by investigating bar coupon acceptance rate .**
 
