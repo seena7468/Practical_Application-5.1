@@ -1,5 +1,7 @@
 # Coupon Acceptance Rate finding - Will the customer Accept the Coupon?
 
+Jupyter NoteBook link - https://github.com/seena7468/Practical_Application-5.1/blob/main/Required_Assignment_5_1.ipynb
+
 ### Problem statement:  
 Distinguish between customers who accepted a driving coupon versus those who did not. It uses probabilty distributions and data visulizations and statistical summary to draw conclusions. 
 
@@ -9,9 +11,7 @@ Data is from the UCI Machine Learning Repository that deescribes different drivi
 ### Findings:
 1. **58% percent of drivers from the total population accepted the coupon.**
 
-  ![Coupon Acceptance](images/acceptance_rate.png)
-
-3. **Detailed analysis was done by investigating bar coupon acceptance rate .**
+2. **Detailed analysis was done by investigating bar coupon acceptance rate .**
 
    - 41.0% of the Bar Coupns were accepted by the drivers.
    - In general, drivers who go to bar more than once a month accepted more coupons than rest of the drives.
@@ -20,8 +20,8 @@ Data is from the UCI Machine Learning Repository that deescribes different drivi
    - Higher acceptance rate for drivers who go to bars more than once a month and are under the age of 30
 
 ### Next Steps/Recommendations:
-- Do an investigation based on detination also to see the acceptance rate of the bar coupon since that may have big impact on the acceptance rate. 
-- Another parameter to consider looking into is gender. 
+- Do an investigation based on destination geographical location of the user and distance to the venue, that may have an impact on the acceptance rate.
+- Another parameter to consider is gender. 
 
 ### Findings from Independant Investigation:
 Analysis was done on the Coffee Bar coupon and below are the findings:
