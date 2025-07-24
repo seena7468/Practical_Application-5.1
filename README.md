@@ -11,6 +11,8 @@ Data is from the UCI Machine Learning Repository that deescribes different drivi
 ### Findings:
 1. **58% percent of drivers from the total population accepted the coupon.**
 
+   <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/a9b9f049-0360-4e5e-a8da-3c46e1cd7ad1" />
+
 2. **Detailed analysis was done by investigating bar coupon acceptance rate .**
 
    - 41.0% of the Bar Coupns were accepted by the drivers.
@@ -24,6 +26,10 @@ Data is from the UCI Machine Learning Repository that deescribes different drivi
 - Another parameter to consider is gender. 
 
 ### Findings from Independant Investigation:
-Analysis was done on the Coffee Bar coupon and below are the findings:
+**Analysis was done on the Coffee Bar coupon and below are the findings:**
+- Coffee Coupon acceptance rate by drivers is 49.9%
+- Students who are not going to any urgent destination accepted the highest number of coupons.
+- Male ans who are unemployed accepted more coupons compared to all other males. 
+
 
 
